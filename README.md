@@ -3,7 +3,8 @@
 ## Overview of the project<br />
   This is the research project journal of Group 6 for SPl MDs606 Data Science Research and Ethics.<br />
   Research topic:<br />
-  Project Description<br />
+  
+## Project Description<br />
   Research question:<br />
   Hypothesis:<br />
   
