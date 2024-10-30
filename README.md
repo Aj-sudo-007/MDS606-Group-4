@@ -10,7 +10,7 @@
 ## Details of group members:<br />
   Student 1:<br />
   Student 2:<br />
-  Student 3:Junting Song SPI240354<br />
+  Student 3: Junting Song SPI240354<br />
 
 ## Project Details:<br />
   Project Plan<br />
