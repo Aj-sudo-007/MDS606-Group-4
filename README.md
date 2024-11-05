@@ -9,9 +9,9 @@
   Hypothesis:<br />
   
 ## Details of group members:<br />
-  Student 1:<br />
+  Student 1: Tianlan Li SPI240032 <br />
   Student 2:Aamir Javaid SPI240025 <br />
-  Student 3: Junting Song SPI240354<br />
+  Student 3: Junting Song SPI240354 <br />
 
 ## Project Details:<br />
   Project Plan<br />
