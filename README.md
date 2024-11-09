@@ -1,7 +1,7 @@
 # MDS606-Group-4
 
 ## Overview of the project<br />
-  This is the research project journal of Group 6 for SPl MDs606 Data Science Research and Ethics.<br />
+  This is the research project journal of Group 4 for SPl MDs606 Data Science Research and Ethics.<br />
   Research topic:<br />
   
 ## Project Description Topic 8: AI in Healthcare System: The use of AI in analyzing patient data and recommending personalized treatment plans based on historical outcomes.<br />
