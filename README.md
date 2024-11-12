@@ -17,10 +17,10 @@
   Student 3: Junting Song SPI240354 <br />
 
 ## Project Details:<br />
-  Project Plan<br />
-  Literature Review<br />
-  Survey Design<br />
-  Data Analysis<br />
-  Research Ethics Approval<br />
-  Research Proposal<br />
-  Project Reflection<br />
+[Research Outline](https://github.com/Aj-sudo-007/MDS606-Group-4/blob/fc5a9db4f333f1bc3df657cd1d3c6fb54b253ed3/Research_Outline.md)<br />
+[Literature Review](https://github.com/Aj-sudo-007/MDS606-Group-4/blob/50a0fa90f264a35de2669f10c6522a931e2b4dc0/Literature_Review.md)<br />
+[Survey Design](https://github.com/Hritika-2001/T2_24_MDS606_Hrtika/blob/main/Survey_Design.md)<br />
+[Data Analysis](https://github.com/Aj-sudo-007/MDS606-Group-4/blob/50a0fa90f264a35de2669f10c6522a931e2b4dc0/Data_Analysis.md)<br />
+[Research Ethics Approval](https://github.com/Aj-sudo-007/MDS606-Group-4/blob/fc5a9db4f333f1bc3df657cd1d3c6fb54b253ed3/Research_Ethics_Approval.md)<br />
+[Research Proposal](https://github.com/Aj-sudo-007/MDS606-Group-4/blob/fc5a9db4f333f1bc3df657cd1d3c6fb54b253ed3/Research_Proposal.md)<br />
+[Project Reflection](https://github.com/Aj-sudo-007/MDS606-Group-4/blob/fc5a9db4f333f1bc3df657cd1d3c6fb54b253ed3/Survey_Design.md)<br />
